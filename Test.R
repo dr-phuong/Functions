@@ -15,3 +15,4 @@ load_all(".") # Working directory should be in the package SCC_R_package
 
 ###
 roxygenise()  # Builds the help files
+
