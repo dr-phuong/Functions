@@ -2,10 +2,7 @@ Package: Functions
 Type: Package
 Title: Core functions of PN
 Version: 0.1.0
-Author: Phuong Nguyen
-Maintainer: 20dp005@slcn.ac.jp
+Author: Phuong Nguyen [aut, cre],
+Maintainer: Phuong Nguyen <20dp005@slcn.ac.jp>
 Description: This package contains several core functions that can be used
-License: 1234
-Encoding: UTF-8
-LazyData: true
-RoxygenNote: 7.1.1
+License: GPL (>= 2)
